@@ -1,0 +1,8 @@
+{
+  "name": "Orbit360Hub Invoice & Quotation Studio",
+  "description": "Professional agency invoice and quotation generator for Orbit360Hub with BDT currency, automatic numbering, line items, taxes, discounts, payment tracking, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
